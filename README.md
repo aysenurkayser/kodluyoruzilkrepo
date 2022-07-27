@@ -1,7 +1,7 @@
 ## kodluyoruzilkrepo
 Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-# Installition
+# Installation
 
 Öncelikle projeyi clonelayın. (buraya sizin reponuzun linki gelecek)
 
@@ -11,6 +11,7 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir
 # Usage
 
 Projeyi cloneladıktan sonra visual studio code da açın. Linux için:
+
 ``` 
 cd kodluyoruzilkrepo
 code .
