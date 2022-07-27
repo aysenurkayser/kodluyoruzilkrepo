@@ -24,3 +24,5 @@ Pull requestler kabul edilir. büyük değişiklikler için, lütfen önce neyi 
 # License 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![img](https://www.hizliresim.com/kjioeqi)
